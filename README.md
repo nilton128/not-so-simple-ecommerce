@@ -1,7 +1,3 @@
-# Repositório DevOps na Nuvem
-Este repositório está sendo utilizado no curso DevOps na Nuvem.
-O objetivo é servir como base para estudos e práticas relacionadas ao tema.
-
 # Login na Aplicação
 Para fazer login na aplicação utilize as credenciais que estão nas variáveis IDENTITY__ADMIN__USER e IDENTITY__ADMIN__USER__PASSWORD, no arquivo .env.
 
